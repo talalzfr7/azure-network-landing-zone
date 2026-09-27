@@ -1,9 +1,9 @@
 # Architecture Decision Record: Network Landing Zone
 
-- **Status:** Proposed design baseline
+- **Status:** Design and specification complete; implementation not yet merged
 - **Date:** 2026-09-27
 - **Scope:** Standard network foundation for an MSP client environment
-- **Implementation status:** Not yet published or deployed
+- **Implementation status:** Not yet merged or deployed
 
 ## Context
 

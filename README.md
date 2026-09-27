@@ -2,7 +2,7 @@
 
 > A hub-spoke Bicep design for repeatable MSP client environment provisioning.
 
-**Status: design/specification baseline.** This repository records the landing-zone architecture, security and governance decisions, module contracts, and verification criteria. The Bicep implementation and deployment evidence are intentionally not published yet.
+**Status: design and specification complete; implementation not yet merged.** This repository records the landing-zone architecture, security and governance decisions, module contracts, and verification criteria. The Bicep implementation and deployment evidence are intentionally not published yet.
 
 ## Client scenario
 
