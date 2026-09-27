@@ -1,0 +1,9 @@
+# Local Azure and secret material
+.azure/
+.env
+*.local.json
+*.secrets.json
+*.publishsettings
+
+# Generated Bicep output
+*.arm.json
